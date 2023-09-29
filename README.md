@@ -28,8 +28,8 @@ _When Uploading & Submitting Pull Requests you need to submit it within a folder
 
 ## How To Contribute
 
-We welcome all contributions, suggestions & ideas for improvement from the community.
-You can contribute by posting in the Solutions folder in Problem Type of your choice.
+We welcome all contributions, suggestions & ideas for improvement.
+You can contribute by posting in the Solutions folder in Problem Type of your choice inside the folder named Upload your solutions here inside that add a folder named with your username and your solution inside.
 
 There are 3 Types of Tasks, those are as follows:
 
