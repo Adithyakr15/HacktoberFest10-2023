@@ -11,13 +11,11 @@ graph LR
 A(Choose Task Type) --> B(Type#1)
 A --> C(Type#2)
 A --> D(Type#3)
-A --> E(Type#4)
 B --> F(Upload)
 C --> F
-D --> F
 F --> H(Question with Solution)
 F --> I(Solution for Given Problems)
-E --> G(Upload Portfolio with Code)
+D --> G(Upload Portfolio with Code)
 G --> J(Submit & Wait for Verification)
 I --> J
 H --> J
